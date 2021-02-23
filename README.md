@@ -112,5 +112,5 @@
 
 ## Link Utili
   
-Repository UML del progetto con Visual Paradigm: [Travis Bug VP](https://github.com/Orthoepiccrown0/travisbug.c3.git)
+Repository UML del progetto con Visual Paradigm: [Travis Bug Code](https://github.com/Orthoepiccrown0/travisbug.c3.git)
   
